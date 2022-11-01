@@ -1,0 +1,12 @@
+{
+  "name": "awesom-book-es6",
+  "version": "1.0.0",
+  "description": "In this project, you will restructure your Awesome books app code. The goal is to make it more organized by using modules. You will also practice the ES6 syntax that you have learned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
