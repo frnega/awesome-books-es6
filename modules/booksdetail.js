@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import Books from './Books.js';
+import Books from './Bookslist.js';
 
 const bookTitle = document.querySelector('#title');
 const author = document.querySelector('#author');
