@@ -96,7 +96,18 @@ header ul li:not(:first-child) {
 
 #contact {
   display: none;
-  margin-left: 30px;
+  flex-direction: column;
+  align-self: center;
+  height: 70vh;
+  width: 100vw;
+  align-items: center;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+#contact ul {
+  list-style-type: none;
 }
 
 footer {
@@ -106,7 +117,7 @@ footer {
   padding: 10px 0 10px 0;
   border: 2px solid;
   width: 100%;
-  background-color: white;
+  background-color: grey;
 }
 
 footer p {
