@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/frnega/awesome-books-es6/issues"
   },
-  "homepage": "https://github.com/frnega/awesome-books-es6#readme"
+  "homepage": "https://github.com/frnega/awesome-books-es6#readme",
+  "dependencies": {
+    "postcss": "^8.4.18"
+  }
 }
